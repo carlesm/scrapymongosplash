@@ -1,7 +1,7 @@
 ScrapyMongoSplash
 =================
 
-A cookiecoutter_ template based on TeamHG-Memex aquarium_  
+A cookiecutter_ template based on TeamHG-Memex aquarium_  
 
 Solved on issue with --disable-proxy parameter for splash.
 Added mongodb
