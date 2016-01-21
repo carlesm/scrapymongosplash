@@ -9,7 +9,7 @@ Changed defaults
 
 Used for Web scraping (Scrapy_) to MongoDB_ via Splash_
 
-.. _cookiecuter: http://cookiecutter.rtfd.org
+.. _cookiecutter: http://cookiecutter.rtfd.org
 .. _Splash: https://github.com/scrapinghub/splash
 .. _Docker Compose: https://docs.docker.com/compose/
 .. _aquarium: https://github.com/TeamHG-Memex/aquarium
