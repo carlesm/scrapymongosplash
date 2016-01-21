@@ -14,6 +14,7 @@ Used for Web scraping (Scrapy_) to MongoDB_ via Splash_
 .. _Docker Compose: https://docs.docker.com/compose/
 .. _aquarium: https://github.com/TeamHG-Memex/aquarium
 .. _MongoDB: http://Mongodb.org
+.. _Scrapy: http://scrapy.org
 
 Usage
 -----
