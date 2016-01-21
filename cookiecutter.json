@@ -1,13 +1,13 @@
 {
-    "folder_name": "aquarium",
-    "num_splashes": 3,
+    "folder_name": "scrapymongosplash",
+    "num_splashes": 2,
     "splash_version": "master",
     "splash_verbosity": 1,
     "max_timeout": 3600,
-    "maxrss_mb": 3000,
+    "maxrss_mb": 2000,
     "stats_enabled": 1,
     "stats_auth": "admin:adminpass",
-    "tor": 1,
+    "tor": 0,
 
     "_copy_without_render": [
         "*filters/*.txt"
