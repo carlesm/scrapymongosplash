@@ -30,7 +30,7 @@ splash{{i}}:
         - 8050
     mem_limit: {{ mem_limit }}
     memswap_limit: {{ memswap_limit }}
-    restart: always
+    restart: unless-stopped
 
     {%- if tor %}
     links:
@@ -48,7 +48,7 @@ tor:
     image: usertaken/tor-socks-proxy:latest
     expose:
         - 9050
-    restart: always
+    restart: unless-stopped
 {% endif %}
 
 mongo:
